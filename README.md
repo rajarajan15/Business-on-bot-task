@@ -1,4 +1,4 @@
-# Business-on-bot-task
+# SOCIAL-MEDIA-APP
 
 *SQL DATABASE*
 *USERS ATTRIBUTES*
